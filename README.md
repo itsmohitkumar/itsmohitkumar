@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @itsmohitkumar
-- 👀 I’m interested in Data science
+- 👀 I am Data Science enthusiast who loves to learn something new every day .
 - 🌱 I’m currently learning Machile learning 
 - 📫 How to reach me : Email- mohitpanghal12345@gmail.com
 
