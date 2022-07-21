@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @itsmohitkumar
 - 👀 I am Data Science enthusiast who loves to learn something new every day .
-- 🌱 I’m currently learning Machile learning 
+- 🌱 I make various projects on Machine Learning now i'm currently studying Deep learning. 
 - 📫 How to reach me : Email- mohitpanghal12345@gmail.com
 
 <!---
