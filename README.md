@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @itsmohitkumar
-- 👀 I am Data Science enthusiast who loves to learn something new every day .
-- 🌱 I make various projects on Machine Learning now i'm currently studying Deep learning. 
+- 👀 I am AI enthusiast who loves to learn something new every day .
 - 📫 How to reach me : Email- mohitpanghal12345@gmail.com
 
 <!---
@@ -15,4 +14,4 @@ Note: Data used in the projects (accessed under data directory) is for demonstra
 Instructions for Running Python Notebooks :
 
 1. Install dependencies using requirements.txt.
-2. Run notebooks as usual by using a jupyter notebook server, Vscode etc.
+2. Run notebooks as usual by using Colab, Vscode etc.
