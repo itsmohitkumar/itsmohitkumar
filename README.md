@@ -6,7 +6,7 @@
 itsmohitkumar/itsmohitkumar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-# Repository Overview
+## Repository Overview
 
 This repository showcases a portfolio of Generative AI projects, completed for academic, self-learning, and recreational purposes. The projects are presented through iPython Notebooks, demonstrating the capabilities and applications of state-of-the-art models in text, image, and other generative domains.
 
