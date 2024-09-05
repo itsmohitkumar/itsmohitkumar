@@ -12,7 +12,7 @@ This repository showcases a portfolio of Generative AI projects, completed for a
 
 **Note:** The data (accessed under the `data` directory) used in these projects is for demonstration purposes only.
 
-## Instructions for Running Python Notebooks
+## Instructions
 
 1. Install dependencies using `requirements.txt`.
 2. Run the notebooks using platforms like Google Colab, VSCode, Jupyter Notebook, or any other Python-supported environment.
