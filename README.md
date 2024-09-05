@@ -6,12 +6,13 @@
 itsmohitkumar/itsmohitkumar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-Repository holding a portfolio of data science projects that I completed for academic, self-learning, and recreational purposes. 
-iPython Notebooks are used to present the information.
+Repository Overview:
 
-Note: Data used in the projects (accessed under data directory) is for demonstration purposes only.
+This repository showcases a portfolio of Generative AI projects, completed for academic, self-learning, and recreational purposes. The projects are presented through iPython Notebooks, demonstrating the capabilities and applications of state-of-the-art models in text, image, and other generative domains.
 
-Instructions for Running Python Notebooks :
+Note: The data (accessed under the data directory) used in these projects is for demonstration purposes only.
 
-1. Install dependencies using requirements.txt.
-2. Run notebooks as usual by using Colab, Vscode etc.
+Instructions for Running Python Notebooks:
+
+1.Install dependencies using requirements.txt.
+2.Run the notebooks using platforms like Google Colab, VSCode, Jupyter Notebook, or any other Python-supported environment.
